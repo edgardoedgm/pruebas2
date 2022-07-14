@@ -1,0 +1,1 @@
+insert into registro (adn) values('asdfasdf'); 
